@@ -13,3 +13,6 @@ Resource to read - http://cs229.stanford.edu/section/cs229-prob.pdf
 9. K-means Clustering - Intuition, Math, explanation using Demo/Diagram, Code
 10. Resources (to the audience) - First Coursera, then CS229...blah blah
 
+
+For our reading - https://towardsdatascience.com/the-mathematics-of-machine-learning-894f046c568
+
