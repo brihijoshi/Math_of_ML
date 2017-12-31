@@ -22,4 +22,3 @@ Linear Regression:
 - Introduce gradient descent
 - Normal Equation (derive??)
 
-
