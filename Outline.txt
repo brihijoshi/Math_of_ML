@@ -1,0 +1,25 @@
+
+- Intro
+
+--> Machine Learning: Definition, Examples
+--> Supervised Learning: When you know the result - Eg.
+--> Unsupervised Learning: When you don't know the result - Eg.
+
+A walkthrough to solving an ML problem - ML101 (Housing prices; tweak it to meetup spaces)
+
+- Deflating the hype
+
+--> IMHO, here instead of TEACHING everything, the focus should be on showing them how basic ML requires basic math and the fact that they can pick up skills on the go.
+
+How?? --> Introduce bare bones LA, PS, Calculus to them as required by the algo under consideration.
+
+Caveat: It will be necessary to emphasize that all of the math in ML should not be done this way and it is good to build up a solid foundation in mathematics before you delve deep in ML/DL
+
+Linear Regression:
+
+- Show a problem with continuous variable
+- Give an intuitive sense of a cose function
+- Introduce gradient descent
+- Normal Equation (derive??)
+
+
