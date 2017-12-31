@@ -11,4 +11,5 @@ Resource to read - http://cs229.stanford.edu/section/cs229-prob.pdf
 7. Start with Linear Regression - Intuition, Math, explanation using Demo/Diagram, Code
 8. Naive Bayes Classifier - Intuition, Math, explanation using Demo/Diagram, Code
 9. K-means Clustering - Intuition, Math, explanation using Demo/Diagram, Code
+10. Resources (to the audience) - First Coursera, then CS229...blah blah
 
